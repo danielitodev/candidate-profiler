@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Upload, FileText, Brain, CheckCircle, AlertCircle, User, Mail, Phone, Briefcase, Code } from 'lucide-react';
+import { useState } from 'react';
+import { FileText, Brain, CheckCircle, AlertCircle } from 'lucide-react';
 import FileUpload from './components/FileUpload';
 import AnalysisResults from './components/AnalysisResults';
 import LoadingSpinner from './components/LoadingSpinner';
